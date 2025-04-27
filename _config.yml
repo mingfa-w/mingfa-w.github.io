@@ -23,13 +23,13 @@ repository               : "mingfa-w/mingfa-w.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "mingfa wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "万物皆比特，一切可编码，宇宙是计算。"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Nanchang University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mingfa.w@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
