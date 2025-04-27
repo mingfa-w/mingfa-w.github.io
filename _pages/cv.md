@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Spring 2024: Mingfa Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
