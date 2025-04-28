@@ -2,6 +2,7 @@
 layout: post
 title: "Triton Example on NPU"
 date: 2025-04-10
+author: mingfa
 ---
 
 ```shell

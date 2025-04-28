@@ -2,6 +2,7 @@
 layout: post
 title: "how to build triton-x"
 date: 2025-04-28
+author: mingfa
 ---
 
 ### 下载源码  
