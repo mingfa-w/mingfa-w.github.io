@@ -14,7 +14,7 @@ docker run -it --name ttx-npu --shm-size=300g --privileged -e ASCEND_VISIBLE_DEI
 # 4. 确认一下npu 的状态
 npu-smi info
 # 5. 确认一下 triton 版本
-pip show bytedance.triton
+pip show byted-triton-x
 # 6. 下载测试用例
 wget -q https://tosv.byted.org/obj/aicompiler/triton-x/example/LayerNorm.py
 wget -q https://tosv.byted.org/obj/aicompiler/triton-x/example/softmax.py
