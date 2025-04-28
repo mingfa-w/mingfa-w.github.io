@@ -11,7 +11,7 @@ layout: feed
  <id>http://bd-seed-hhw.github.io/blog</id>
  <author>
    <name>Bytedance AICompiler</name>
-   <email>wangmingfa@Bytedance.com</email>
+   <email>wangmingfa@bytedance.com</email>
  </author>
 
  {% for post in site.posts %}

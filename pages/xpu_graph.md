@@ -11,6 +11,9 @@ permalink: /xpu_graph/
 - To Developer：支持便利的pattern编写
 - To Vendor：暴露公共的优化算子接口
 
+下图是xpu_graph的架构图：
+![xpu_graph](/images/xpu_graph.png "triton-x总体架构图"){:style="width: 100%"}
+
 ### 安装
 
 xpu_graph 的安装方法如下：  
