@@ -1,3 +1,8 @@
 name: Byted-AIC
-markdown: kramdown
+# markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
