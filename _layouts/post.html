@@ -177,3 +177,18 @@ script_includes:
   </div>
   <!-- div.post-tail-wrapper -->
 </article>
+
+<div id="gitmentContainer"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+  var gitment = new Gitment({
+    owner: 'mingfa-w',
+    repo: 'https://github.com/mingfa-w/mingfa-w.github.io',
+    oauth: {
+      client_id: 'Ov23likQYW1gfWJcbv0R',
+      client_secret: 'c2063014f185788f6e482103fd664827bccf08ab',
+    },
+  });
+  gitment.render('gitmentContainer');
+</script>
